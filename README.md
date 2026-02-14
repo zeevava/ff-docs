@@ -1,6 +1,6 @@
 # Website
 
-**[View the docs →](https://zeevava.github.io/ff-docs/)**
+**[View the docs →](https://zeevava.github.io/ff-docs/intro)** 
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
